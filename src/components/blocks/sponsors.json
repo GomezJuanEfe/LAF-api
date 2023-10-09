@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_blocks_sponsors",
+  "info": {
+    "displayName": "Sponsors"
+  },
+  "options": {},
+  "attributes": {
+    "sponsors": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_blocks_recursos",
+  "info": {
+    "displayName": "Recurso"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string",
+      "required": true
+    },
+    "Text": {
+      "type": "text",
+      "required": true
+    },
+    "URL": {
+      "type": "string",
+      "required": true
+    },
+    "Image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
